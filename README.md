@@ -1,40 +1,40 @@
 **Project:** High-Performance Plumbing Supplies E-commerce Platform  
 **Role:** Middle Full-Stack Developer (Full-Cycle Development)  
-**Year:** 2023 (Commercial Project)  
+**Year:** 2024 (Commercial Project)  
 
 ### Key Contributions & Achievements:
 1. **End-to-End Platform Development**  
-   - Архитектура и реализация B2C-платформы для продажи 500+ сантехнических товаров с поддержкой кросс-браузерного адаптивного интерфейса (React, CSS3/Grid/Flexbox).
-   - Полный цикл разработки: проектирование системы, интеграция MongoDB, развертывание Nginx-сервера, Docker-контейнеризация.
+   - Architecture and implementation of a B2C platform for selling 500+ plumbing products with support for a cross-browser adaptive interface (React, CSS3/Grid/Flexbox).
+   - Full development cycle: system design, MongoDB integration, Nginx server deployment, Docker containerization.
 
 2. **Core E-commerce Modules**  
-   - Реализация каталога с фильтрацией (цена/бренд/категории), поиском с автодополнением и пагинацией.
-   - Оптимизированная корзина покупок и многоэтапный checkout flow (уменьшил время оформления заказа на 25%).
+   - Implementation of a catalog with filtering (price/brand/categories), search with auto-completion and pagination.
+   - Optimized shopping cart and multi-step checkout flow (reduced checkout time by 25%).
 
 3. **Performance Optimization**  
-   - Ускорение загрузки страниц до 1.2s (Lighthouse):  
-     - Кэширование запросов (Redis)  
-     - Lazy-load изображений  
-     - Минификация ресурсов (Webpack)  
-     - SSR для критических страниц  
-   - Снижение bounce rate на 15% благодаря оптимизации.
+   - Speed ​​up page loading up to 1.2s (Lighthouse): 
+     - Query Caching (Redis)
+     - Lazy-loading of images
+     - Resource minification (Webpack)
+     - SSR for critical pages
+   - Reduced bounce rate by 15% thanks to optimization.
 
 4. **International Expansion Support**  
-   - Система локализации контента (i18n) для выхода на рынки СНГ.
-   - Интеграция аналитики (Google Analytics + кастомные события) для отслеживания поведения пользователей.
+   - Content localization system (i18n) for entering the CIS markets.
+   - Analytics integration (Google Analytics + custom events) to track user behavior.
 
 5. **Scalability & Reliability**  
-   - Обработка 2000+ пользователей/месяц с uptime 99.8%  
-   - Контейнеризация сервисов (Docker) для упрощения масштабирования  
-   - Реализация резервного копирования БД  
+   - Processing 2000+ users/month with 99.8% uptime
+   - Containerizing Services (Docker) for Easier Scaling
+   - Implementation of DB backup
 
 ### Tech Stack:
-| Frontend          | Backend         | DevOps          |
-|-------------------|-----------------|-----------------|
-| React (ES6+)      | Node.js         | Docker          |
-| Redux Toolkit     | Express.js      | Nginx           |
-| CSS3/Grid/Flexbox | MongoDB (Mongoose) | AWS EC2/S3    |
-| REST API          | JWT Auth        | GitHub Actions  |
+| Frontend          | Backend         | DevOps            |
+|-------------------|-----------------|-------------------|
+| React (ES6+)      | Node.js         | Docker            |
+| Redux Toolkit     | Express.js      | Nginx             |
+| CSS3/Grid/Flexbox | MongoDB (Mongoose) | AWS EC2/S3     |
+| REST API          | JWT Auth        | GitHub Actions    |
 | Web Vitals        | Redis (Caching) | Sentry Monitoring |
 
 ### Business Impact:
